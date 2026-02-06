@@ -1,3 +1,4 @@
 ﻿# Prepa-EDD-22-01-2526-2
 
-interseccion entre dos listas
+Rotaciones de nodos en una lista
+
